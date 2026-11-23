@@ -25,4 +25,4 @@ Live: your-demo-link
 4. Open http://localhost:3000
 
 ## Authors
-Stephanie Maciejewski - https://www.linkedin.com/in/stephanie-maciejewski-75151332/ · R · J · E · S
+Stephanie Maciejewski - https://www.linkedin.com/in/stephanie-maciejewski-75151332/ · r0hankrishnan · J · E · S
