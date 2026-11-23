@@ -25,4 +25,4 @@ Live: your-demo-link
 4. Open http://localhost:3000
 
 ## Authors
-Stephanie Maciejewski - ![LinkedIn](https://www.linkedin.com/in/stephanie-maciejewski-75151332/) · [r0hankrishnan](https://github.com/r0hankrishnan) · J · [eemilycchen](https://github.com/eemilycchen) · S
+Stephanie Maciejewski - ![LinkedIn](https://www.linkedin.com/in/stephanie-maciejewski-75151332/) · [r0hankrishnan](https://github.com/r0hankrishnan) · [Jehad142](https://github.com/Jehad142) · [eemilycchen](https://github.com/eemilycchen) · [soonbee207](https://github.com/soonbee207)
