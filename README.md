@@ -8,8 +8,8 @@ to determine the price, and finds other comparable properties.
 
 ## Demo - your-demo-link
 
-<img width="960" height="1020" alt="Screenshot 2026-11-23 132918" src="https://github.com/user-attachments/assets/ff17d5ba-5371-441f-a624-e687d6397ffe" />
-<img width="960" height="1020" alt="Screenshot 2026-11-23 132939" src="https://github.com/user-attachments/assets/a3a7d7d1-0ede-43c6-ae90-d190e8e653e0" />
+<img width="480" height="510" alt="Screenshot 2026-11-23 132918" src="https://github.com/user-attachments/assets/ff17d5ba-5371-441f-a624-e687d6397ffe" />
+<img width="480" height="510" alt="Screenshot 2026-11-23 132939" src="https://github.com/user-attachments/assets/a3a7d7d1-0ede-43c6-ae90-d190e8e653e0" />
 
 
 ## Tech Stack
