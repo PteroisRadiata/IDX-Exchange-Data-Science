@@ -7,7 +7,7 @@ the predicted sale price before listing. It uses investigated best features in a
 to determine the price, and finds other comparable properties.
 
 ## Demo
-![Project Banner](./images/Screenshot 2026-11-23 132918.jpg)
+![image](./images/Screenshot 2026-11-23 132918.jpg)
 Live: your-demo-link
 ![Dashboard screenshot](screenshot.png)
 
