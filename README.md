@@ -6,19 +6,18 @@ The price predictor lets a user enter a single resident home address, any known 
 the predicted sale price before listing. It uses investigated best features in an XGBoost model
 to determine the price, and finds other comparable properties.
 
-## Demo - your-demo-link
-
-<img width="480" height="510" alt="Screenshot 2026-11-23 132918" src="https://github.com/user-attachments/assets/ff17d5ba-5371-441f-a624-e687d6397ffe" />
-<img width="480" height="510" alt="Screenshot 2026-11-23 132939" src="https://github.com/user-attachments/assets/a3a7d7d1-0ede-43c6-ae90-d190e8e653e0" />
-
+## Features
+- User entry of home address and/or property details
+- Results include: predicted price, known property details, comparable properties and location map
 
 ## Tech Stack
 - Backend: Python, Jupyter Noetbooks
 - Frontend: Streamlit
 
-## Features
-- User entry of home address and/or property details
-- Results include: predicted price, known property details, comparable properties and location map
+## Demo - your-demo-link
+
+<img width="480" height="510" alt="Screenshot 2026-11-23 132918" src="https://github.com/user-attachments/assets/ff17d5ba-5371-441f-a624-e687d6397ffe" />
+<img width="480" height="510" alt="Screenshot 2026-11-23 132939" src="https://github.com/user-attachments/assets/a3a7d7d1-0ede-43c6-ae90-d190e8e653e0" />
 
 ## Getting Started (template)
 1. Clone: git clone <repo-url>
