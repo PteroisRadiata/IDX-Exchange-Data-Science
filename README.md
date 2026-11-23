@@ -8,7 +8,8 @@ to determine the price, and finds other comparable properties.
 
 ## Demo
 
-![image](images/Screenshot 2026-11-23 132918.jpg)
+<img width="960" height="1020" alt="Screenshot 2026-11-23 132918" src="https://github.com/user-attachments/assets/ff17d5ba-5371-441f-a624-e687d6397ffe" />
+
 
 Live: your-demo-link
 ![Dashboard screenshot](screenshot.png)
